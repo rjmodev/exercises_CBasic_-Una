@@ -9,9 +9,9 @@ int main()
     printf("Escreva um número inteiro para verificar: ");
     scanf ("%d", &number);
     if (number % 2== 0){
-        printf("Verifiquei aqui e consta que o %d é par!!", number);
+        printf("Verifiquei e consta que o %d é par!!", number);
     } else{
-        printf("Verifiquei aqui e consta que o %d é ímpar!!", number);    
+        printf("Verifiquei e consta que o %d é ímpar!!", number);    
     }
     return(0);
 }
