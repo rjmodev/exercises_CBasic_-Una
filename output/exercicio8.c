@@ -8,8 +8,8 @@
 int main(){
 
     //Definição de variaveis necessarias
-    int numVt[6]; 
-    int i, numOrd, iOrg;
+    int numVt[6], numOrd; 
+    int i, iOrg;
 
     //Laço para o usuario digitar 5 numeros e armazenar no array numVt[]
     printf("Digite as 5 menores notas abaixo de 100 dos alunos de medicina\n");
